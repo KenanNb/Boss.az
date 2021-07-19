@@ -1,0 +1,10 @@
+C:\Users\Kənan\source\repos\Boss.az\obj\Debug\Boss.az.csprojAssemblyReference.cache
+C:\Users\Kənan\source\repos\Boss.az\obj\Debug\Boss.az.csproj.CoreCompileInputs.cache
+C:\Users\Kənan\source\repos\Boss.az\bin\Debug\Boss.az.exe.config
+C:\Users\Kənan\source\repos\Boss.az\bin\Debug\Boss.az.exe
+C:\Users\Kənan\source\repos\Boss.az\bin\Debug\Boss.az.pdb
+C:\Users\Kənan\source\repos\Boss.az\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kənan\source\repos\Boss.az\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kənan\source\repos\Boss.az\obj\Debug\Boss.az.csproj.CopyComplete
+C:\Users\Kənan\source\repos\Boss.az\obj\Debug\Boss.az.exe
+C:\Users\Kənan\source\repos\Boss.az\obj\Debug\Boss.az.pdb

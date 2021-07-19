@@ -1,0 +1,87 @@
+[
+  {
+    "Id": 1,
+    "CompanyName": "Araz ACS",
+    "WorkHour": "9  AM to 6 PM",
+    "Experience": "1-2 year experience Reguired",
+    "ReguiredAge": "20 - 30",
+    "Salary": 2000.0,
+    "employers": {
+      "Id": 2,
+      "Name": "Ceyhun",
+      "Surname": "Humbetov",
+      "City": "Baku",
+      "Phone": "+994559685864",
+      "Age": 38,
+      "Vacancies": 10.0
+    }
+  },
+  {
+    "Id": 3,
+    "CompanyName": "Aztelekom MTB",
+    "WorkHour": "9  AM to 6 PM",
+    "Experience": "2-4 year experience Reguired",
+    "ReguiredAge": "20 - 30",
+    "Salary": 2400.0,
+    "employers": {
+      "Id": 4,
+      "Name": "Soyun",
+      "Surname": "Rehimov",
+      "City": "Baku",
+      "Phone": "+994553215487",
+      "Age": 48,
+      "Vacancies": 500.0
+    }
+  },
+  {
+    "Id": 5,
+    "CompanyName": "Baku Telekom",
+    "WorkHour": "9  AM to 6 PM",
+    "Experience": "3-5 year experience Reguired",
+    "ReguiredAge": "20 - 50",
+    "Salary": 400.0,
+    "employers": {
+      "Id": 6,
+      "Name": "Ruhin",
+      "Surname": "Ceyhunov",
+      "City": "Baku",
+      "Phone": "+994551234323",
+      "Age": 58,
+      "Vacancies": 200.0
+    }
+  },
+  {
+    "Id": 7,
+    "CompanyName": "KTV1",
+    "WorkHour": "9  AM to 6 PM",
+    "Experience": "1-2 year experience Reguired",
+    "ReguiredAge": "20 - 40",
+    "Salary": 450.0,
+    "employers": {
+      "Id": 8,
+      "Name": "Kamran",
+      "Surname": "Huseynov",
+      "City": "Baku",
+      "Phone": "+994553456464",
+      "Age": 28,
+      "Vacancies": 120.0
+    }
+  },
+  {
+    "Id": 9,
+    "CompanyName": "Senaye Avtomatika istehsalat birliyi",
+    "WorkHour": "9  AM to 6 PM",
+    "Experience": "2-4 year experience Reguired",
+    "ReguiredAge": "20 - 65",
+    "Salary": 750.0,
+    "employers": {
+      "Id": 10,
+      "Name": "Ehmed",
+      "Surname": "Hemidov",
+      "City": "Baku",
+      "Phone": "+994553425435",
+      "Age": 78,
+      "Vacancies": 80.0
+    }
+  }
+]
